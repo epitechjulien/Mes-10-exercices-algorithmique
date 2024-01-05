@@ -1,13 +1,18 @@
-# Algo challenges!
+# Mes notes :
 
-## Challenge yourself!
+- Cloner ce répo
+- Installer les dépendances avec un "npm i"
+- Lancer avec "npm start".
+  
+- 10 exercices dans les dossiers : A1 / A2 / A3 / A4 / A5 / B1 / B2 / B3 / B4 / B5
+- Considéré comme facile : A1, A2, B1, B2.
+- Considéré comme moyen : A3, B3.
+- Considéré comme un peu plus dur : A4, A5, B4, B5
+  
+- Les réponses sont les fichiers "answer.ts"
 
-**How to participate?**
 
-- clone this repo
-- install npm dependencies `npm i`
-- run it! `npm start`
-
+Description du fork d'origine :
 **And then, try to solve some algos:**
 
 - challenges are located in the `./src/challenges` folder
