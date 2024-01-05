@@ -1,4 +1,6 @@
-# Mes notes :
+##
+
+Mes notes personnelles :
 
 - Cloner ce répo
 - Installer les dépendances avec un "npm i"
